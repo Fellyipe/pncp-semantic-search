@@ -11,7 +11,7 @@
   <strong>Pipeline ETL e busca semântica para automação de licitações públicas com Inteligência Artificial.</strong>
 </p>
 
-> 🔒 **Nota de Portfólio:** O código-fonte deste sistema é privado devido a diretrizes de propriedade intelectual e viabilidade comercial. Este repositório documenta de forma transparente a arquitetura, decisões de engenharia e os desafios técnicos no desenvolvimento para fins de portfólio.
+> 🔒 **Nota de Portfólio:** Código privado devido a diretrizes de propriedade intelectual e viabilidade comercial. Este repositório documenta a arquitetura, decisões de engenharia e os desafios técnicos no desenvolvimento para fins de portfólio.
 
 ---
 
