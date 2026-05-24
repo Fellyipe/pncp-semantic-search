@@ -1,10 +1,7 @@
 <h1 align="center">Sistema Inteligente de Análise de Licitações</h1>
 
 <p align="center">
-  <img src="https://shields.io" alt="Python">
-  <img src="https://shields.io" alt="FastAPI">
-  <img src="https://shields.io" alt="PostgreSQL">
-  <img src="https://shields.io" alt="Docker">
+  Python | FastAPI | PostgreSQL | Docker
 </p>
 
 <p align="center">
