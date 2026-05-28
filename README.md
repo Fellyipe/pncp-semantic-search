@@ -93,7 +93,7 @@ graph TD
 ### Análise da licitação
 
 #### Requisição
-<img src="https://github.com/user-attachments/assets/10d6b522-d91f-4df7-a595-368cd37685bc" alt="Swagger Request" width="1100">
+<img src="https://github.com/user-attachments/assets/74e14c56-7b18-4c03-bb23-b9fa5588c375" alt="Swagger Request" width="1100"/>
 
 #### Resposta
 <img src="https://github.com/user-attachments/assets/9537bde4-b00f-4de2-befd-25308004225f" alt="Swagger Response" width="550">
